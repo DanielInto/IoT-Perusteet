@@ -14,3 +14,4 @@
   1. Node.js[Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko2)
   
 ## Viikko 3
+  2. SQLite[Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko3)
