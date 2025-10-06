@@ -11,4 +11,6 @@
   8. Weather station with backend [Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko%201/Teht%C3%A4v%C3%A4%208)
 
 ## Viikko 2
+  1. Node.js[Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko2)
   
+## Viikko 3
