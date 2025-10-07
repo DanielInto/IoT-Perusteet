@@ -14,4 +14,6 @@
   1. Creating a server with Node.js [Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko2)
   
 ## Viikko 3
-  2. SQLite[Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko3)
+  1. SQLite[Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko3)
+## Viikko 4
+  1. Basics of frontend programming[Link](https://github.com/DanielInto/IoT-Perusteet/tree/main/Viikko4)
